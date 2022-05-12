@@ -1,0 +1,24 @@
+{
+  "name": "test-api",
+  "version": "1.0.0",
+  "description": "Demo project for testing API solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "api",
+    "employees"
+  ],
+  "author": "Vinod Valluri",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "xml": "^1.0.1",
+    "xml-js": "^1.6.11"
+  }
+}
